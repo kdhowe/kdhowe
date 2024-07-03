@@ -10,7 +10,7 @@ uid: mb_ext_prassistant
 </div>
 
  <td style="padding: 20px; border-left: 5px solid #4CAF50; background-color: #e8f5e9; border-radius: 4px;">
-      <h2 style="color: #388E3C; text-align: center; margin-top: 0;">Announcement</h2>
+      <h2 style="color: #388E3C; text-align: center; margin-top: 0;">📢 Announcement</h2>
       <div style="border-left: 5px solid #388E3C; padding-left: 10px;">
         <p>So far more than 10K repos have self onboarded to PRAssistant. Starting in FY25 Q1 (July 2024), 
         1ES will start rolling out to different Microsoft organizations on Azure DevOps by default. 
