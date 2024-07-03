@@ -4,12 +4,17 @@ uid: mb_ext_prassistant
 
 # Pull Request AI Assistant (PRAssistant)
 
-<div style="background-color: #FFF3E0; padding: 10px; border: 1px solid #FF9800; border-radius: 4px; margin-bottom: 20px;">
-  <strong>⚠️ Important Consideration:</strong>
-  <p>Just like other AI tools powered by LLMs, PR Assistant can be incorrect. You should verify the PRAssistant’s suggestions before accepting them. You can think of the PR assistant as an enhancement, not a replacement, and you should continue to follow existing code review best practices.</p>
-</div>
-
- <td style="padding: 20px; border-left: 5px solid #4CAF50; background-color: #e8f5e9; border-radius: 4px;">
+<table style="width: 100%; margin-bottom: 20px; border-spacing: 10px;">
+  <tr>
+    <td style="padding: 10px 20px; border-left: 5px solid #FF9800; background-color: #FFF3E0; border-radius: 4px;">
+      <strong style="color: #E65100;">⚠️ Important Consideration:</strong>
+      <div style="padding: 20px; background-color: #FFE0B2; border-radius: 4px;">
+        <p style="margin: 0;">Just like other AI tools powered by LLMs, PR Assistant can be incorrect. You should verify the PRAssistant’s suggestions before accepting them. You can think of the PR assistant as an enhancement, not a replacement, and you should continue to follow existing code review best practices.</p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 20px; border-left: 5px solid #4CAF50; background-color: #e8f5e9; border-radius: 4px;">
       <h2 style="color: #388E3C; text-align: center; margin-top: 0;">📢 Announcement</h2>
       <div style="border-left: 5px solid #388E3C; padding-left: 10px;">
         <p>So far more than 10K repos have self onboarded to PRAssistant. Starting in FY25 Q1 (July 2024), 
