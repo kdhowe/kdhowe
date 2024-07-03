@@ -4,28 +4,23 @@ uid: mb_ext_prassistant
 
 # Pull Request AI Assistant (PRAssistant)
 
-<table style="width: 100%; margin-bottom: 20px; border-spacing: 10px;">
-  <tr>
-    <td style="padding: 10px 20px; border-left: 5px solid #FF9800; background-color: #FFF3E0; border-radius: 4px;">
-      <strong style="color: #E65100;">Important Consideration:</strong>
-      <div style="padding: 20px; background-color: #FFE0B2; border-radius: 4px;">
-        <p style="margin: 0;">Just like other AI tools powered by LLMs, PR Assistant can be incorrect. You should verify the PRAssistant’s suggestions before accepting them. You can think of the PR assistant as an enhancement, not a replacement, and you should continue to follow existing code review best practices.</p>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td style="padding: 20px; border-left: 5px solid #4CAF50; background-color: #e8f5e9; border-radius: 4px;">
-      <h2 style="color: #388E3C; text-align: center; margin-top: 0;">Announcement</h2>
-      <div style="border-left: 5px solid #388E3C; padding-left: 10px;">
-        <p>So far more than 10K repos have self onboarded to PRAssistant. Starting in FY25 Q1 (July 2024), 
-        1ES will start rolling out to different Microsoft organizations on Azure DevOps by default. 
-        We are having communications with E+D, C+AI and Microsoft security engineering systems teams to drive this effort.</p>
-        <p>This decision was primarily driven by a suggestion from Scott Gu, based on demonstrated efficiency gains in pull request completion time, reported improvements in code quality, and several requests around discoverability and enabling by default.</p>
-        <p>Learn more below or visit specific docs to see configuration options or how to opt out.</p>
-      </div>
-    </td>
-  </tr>
-</table>
+<div style="margin-bottom: 20px; padding: 10px 20px 20px 20px; border-left: 5px solid #FF9800; background-color: #FFF3E0;">
+  <strong style="color: #E65100;">Important Consideration:</strong>
+  <div style="padding: 20px; background-color: #FFE0B2;">
+    <p style="margin: 0;">Just like other AI tools powered by LLMs, PR Assistant can be incorrect. You should verify the PRAssistant’s suggestions before accepting them. You can think of the PR assistant as an enhancement, not a replacement, and you should continue to follow existing code review best practices.</p>
+  </div>
+</div>
+
+<div style="padding: 20px; border-left: 5px solid #4CAF50; background-color: #e8f5e9;">
+  <h2 style="color: #388E3C; text-align: center; margin-top: 0;">Announcement</h2>
+  <div style="border-left: 5px solid #388E3C; padding-left: 10px;">
+    <p>So far more than 10K repos have self onboarded to PRAssistant. Starting in FY25 Q1 (July 2024), 
+    1ES will start rolling out to different Microsoft organizations on Azure DevOps by default. 
+    We are having communications with E+D, C+AI and Microsoft security engineering systems teams to drive this effort.</p>
+    <p>This decision was primarily driven by a suggestion from Scott Gu, based on demonstrated efficiency gains in pull request completion time, reported improvements in code quality, and several requests around discoverability and enabling by default.</p>
+    <p>Learn more below or visit specific docs to see configuration options or how to opt out.</p>
+  </div>
+</div>
 
 ---
 
